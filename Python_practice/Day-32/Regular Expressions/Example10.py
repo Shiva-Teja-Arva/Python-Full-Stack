@@ -1,0 +1,11 @@
+import re
+m=re.findall(r'ab*','a abb acc add abbbbb')
+print(m)
+m=re.findall(r'ab+','a abb acc add abbbbb')
+print(m)
+m=re.findall(r'ab?','a abb acc add abbbbb')
+print(m)
+m=re.findall(r'ab{2,3}','a abb acc add abbbbb')
+print(m)
+m=re.findall(r'a.b','a abb acc add adb')
+print(m)

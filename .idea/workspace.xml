@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="214" />
+    <option name="cachedIndexableFilesCount" value="228" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,61 +31,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000008359963621" />
-      <entry key="MS500" value="1.0611378929193893" />
-      <entry key="S2" value="1.9217615603198777" />
-      <entry key="S5" value="4.989124972809279" />
-      <entry key="S10" value="10.323965202474161" />
-      <entry key="S30" value="23.839875774040692" />
-      <entry key="S60" value="36.64580399425243" />
-      <entry key="M2" value="54.799298792465954" />
-      <entry key="M5" value="99.01793753954126" />
-      <entry key="M10" value="169.28399286220574" />
-      <entry key="M15" value="236.9695209452382" />
-      <entry key="M30" value="409.33631757361064" />
-      <entry key="H1" value="635.6222178839906" />
-      <entry key="H2" value="872.2873534174142" />
-      <entry key="H4" value="1076.2546494029016" />
-      <entry key="D1" value="2113.63121335565" />
-      <entry key="W1" value="4319.039518125258" />
+      <entry key="MS100" value="1.0000000000001563" />
+      <entry key="MS500" value="1.002747269980969" />
+      <entry key="S2" value="1.254318412640749" />
+      <entry key="S5" value="1.8181419452847432" />
+      <entry key="S10" value="2.514274081838863" />
+      <entry key="S30" value="5.08692216223811" />
+      <entry key="S60" value="9.271802943960315" />
+      <entry key="M2" value="14.519470978914034" />
+      <entry key="M5" value="19.91173680751963" />
+      <entry key="M10" value="22.95647510610096" />
+      <entry key="M15" value="29.34533145821479" />
+      <entry key="M30" value="96.75404027526281" />
+      <entry key="H1" value="333.1114814950342" />
+      <entry key="H2" value="738.749864687242" />
+      <entry key="H4" value="1172.8946039868538" />
+      <entry key="D1" value="2537.1847032009205" />
+      <entry key="W1" value="4856.309937470672" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="6.762454923319713E-201" />
-      <entry key="MS500" value="9.247426254850178E-41" />
-      <entry key="S2" value="9.806300990362603E-11" />
-      <entry key="S5" value="9.922083150617675E-5" />
-      <entry key="S10" value="0.009974261807963238" />
-      <entry key="S30" value="0.24163600468122864" />
-      <entry key="S60" value="0.7190240643746718" />
-      <entry key="M2" value="1.7091644502631271" />
-      <entry key="M5" value="3.720496129850977" />
-      <entry key="M10" value="5.732100559240439" />
-      <entry key="M15" value="7.170427486458208" />
-      <entry key="M30" value="10.412977278942861" />
-      <entry key="H1" value="14.679124629484129" />
-      <entry key="H2" value="18.937882708959883" />
-      <entry key="H4" value="22.52331269003497" />
-      <entry key="D1" value="67.16487967845546" />
-      <entry key="W1" value="143.57201294954382" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.1335894154462658E-86" />
+      <entry key="S2" value="4.207368226591567E-22" />
+      <entry key="S5" value="2.8158155903155346E-9" />
+      <entry key="S10" value="5.3064259066866604E-5" />
+      <entry key="S30" value="0.03757803225494148" />
+      <entry key="S60" value="0.1938505410230817" />
+      <entry key="M2" value="0.4402846136599532" />
+      <entry key="M5" value="0.7203268303995676" />
+      <entry key="M10" value="0.8732407956767649" />
+      <entry key="M15" value="1.105653298931232" />
+      <entry key="M30" value="3.1187556406949373" />
+      <entry key="H1" value="9.293759225814" />
+      <entry key="H2" value="18.85972745580056" />
+      <entry key="H4" value="28.400392354397432" />
+      <entry key="D1" value="79.30173203335329" />
+      <entry key="W1" value="159.17331849129715" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9460584431274965" />
-      <entry key="MS500" value="1.0495179465253244" />
-      <entry key="S2" value="1.9164667399946738" />
-      <entry key="S5" value="4.983163499821659" />
-      <entry key="S10" value="10.324379096792129" />
-      <entry key="S30" value="24.031474270069474" />
-      <entry key="S60" value="37.283335469868746" />
-      <entry key="M2" value="56.418733146480115" />
-      <entry key="M5" value="102.65658606578657" />
-      <entry key="M10" value="174.94331081257423" />
-      <entry key="M15" value="244.07320531147568" />
-      <entry key="M30" value="419.6924954730412" />
-      <entry key="H1" value="650.2560720436568" />
-      <entry key="H2" value="891.1934593826506" />
-      <entry key="H4" value="1098.7581785730492" />
-      <entry key="D1" value="2180.789397434208" />
-      <entry key="W1" value="4462.609454802743" />
+      <entry key="MS100" value="0.9330329915369504" />
+      <entry key="MS500" value="0.9889309043508406" />
+      <entry key="S2" value="1.2496717565135074" />
+      <entry key="S5" value="1.8151105056870975" />
+      <entry key="S10" value="2.510764264626965" />
+      <entry key="S30" value="5.075248251027687" />
+      <entry key="S60" value="9.382803339749318" />
+      <entry key="M2" value="14.882478232999715" />
+      <entry key="M5" value="20.58689400741092" />
+      <entry key="M10" value="23.803590158558237" />
+      <entry key="M15" value="30.430330769905414" />
+      <entry key="M30" value="99.84840017161429" />
+      <entry key="H1" value="342.3709606094666" />
+      <entry key="H2" value="757.574672672732" />
+      <entry key="H4" value="1201.2683911124652" />
+      <entry key="D1" value="2616.4774144371186" />
+      <entry key="W1" value="5015.480791832509" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -100,135 +100,135 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.ATMProject.executor": "Run",
-    "Python.AbstractClass.executor": "Run",
-    "Python.AbstractMethod.executor": "Run",
-    "Python.AccessModifiers.executor": "Run",
-    "Python.AllinOne.executor": "Run",
-    "Python.BankingExample.executor": "Run",
-    "Python.BankingExample1.executor": "Run",
-    "Python.BankingExample2.executor": "Run",
-    "Python.ClassMethodEg.executor": "Run",
-    "Python.ClassVarEg.executor": "Run",
-    "Python.CombinedEg.executor": "Run",
-    "Python.ConstructorOverLoading.executor": "Run",
-    "Python.ConstructorOverriding.executor": "Run",
-    "Python.DefaultExceptBlock.executor": "Run",
-    "Python.EmailProject.executor": "Run",
-    "Python.Example1.executor": "Run",
-    "Python.Example10.executor": "Run",
-    "Python.Example11.executor": "Run",
-    "Python.Example12.executor": "Run",
-    "Python.Example13.executor": "Run",
-    "Python.Example14.executor": "Run",
-    "Python.Example15.executor": "Run",
-    "Python.Example16.executor": "Run",
-    "Python.Example17.executor": "Run",
-    "Python.Example18.executor": "Run",
-    "Python.Example19.executor": "Run",
-    "Python.Example2.executor": "Run",
-    "Python.Example20.executor": "Run",
-    "Python.Example21.executor": "Run",
-    "Python.Example22.executor": "Run",
-    "Python.Example3.executor": "Run",
-    "Python.Example4.executor": "Run",
-    "Python.Example5.executor": "Run",
-    "Python.Example6.executor": "Run",
-    "Python.Example7.executor": "Run",
-    "Python.Example8.executor": "Run",
-    "Python.Example9.executor": "Run",
-    "Python.ExceptionEg1.executor": "Run",
-    "Python.ExceptionEg2.executor": "Run",
-    "Python.ExceptionEg3.executor": "Run",
-    "Python.ExceptionEg4.executor": "Run",
-    "Python.ExceptionEg5.executor": "Run",
-    "Python.ExceptionEg6.executor": "Run",
-    "Python.ExceptionExample1.executor": "Run",
-    "Python.ExceptionType.executor": "Run",
-    "Python.FunctionIntuition.executor": "Run",
-    "Python.GeneratorEg1.executor": "Run",
-    "Python.GeneratorExample.executor": "Run",
-    "Python.HierarchicalInherit1.executor": "Run",
-    "Python.HybridInherit1.executor": "Run",
-    "Python.HybridInherit2.executor": "Run",
-    "Python.InstanceMethod.executor": "Run",
-    "Python.InstanceMethodEg.executor": "Run",
-    "Python.InstanceVarEg.executor": "Run",
-    "Python.List_Comprehension.executor": "Run",
-    "Python.LocalVarEg.executor": "Run",
-    "Python.LogicalError.executor": "Run",
-    "Python.MethodOveriding.executor": "Run",
-    "Python.MethodOveriding1.executor": "Run",
-    "Python.MethodOverriding.executor": "Run",
-    "Python.MethodOverriding1.executor": "Run",
-    "Python.MethodOverriding2.executor": "Run",
-    "Python.MultiInherit1.executor": "Run",
-    "Python.Multiinherit2.executor": "Run",
-    "Python.Multiinherit3.executor": "Run",
-    "Python.Multilevel2.executor": "Run",
-    "Python.Mutlilevel1.executor": "Run",
-    "Python.NoParameterisedConst.executor": "Run",
-    "Python.OverLoading3.executor": "Run",
-    "Python.OverLoadingEg1.executor": "Run",
-    "Python.OverloadingEg2.executor": "Run",
-    "Python.ParameterisedConst.executor": "Run",
-    "Python.PublicMemberEg.executor": "Run",
-    "Python.ReadAndWrite.executor": "Run",
-    "Python.SingleInheritance.executor": "Run",
-    "Python.SingleInheritance1.executor": "Run",
-    "Python.SingleInheritance2.executor": "Run",
-    "Python.StaticMethodEg.executor": "Run",
-    "Python.SyntaxError.executor": "Run",
-    "Python.UniversityManagementSystem.executor": "Run",
-    "Python.calculate.executor": "Run",
-    "Python.classExample.executor": "Run",
-    "Python.fileAppend.executor": "Run",
-    "Python.fileRead.executor": "Run",
-    "Python.fileWrite.executor": "Run",
-    "Python.fileWrite1.executor": "Run",
-    "Python.filesIntro.executor": "Run",
-    "Python.finally.executor": "Run",
-    "Python.first.executor": "Run",
-    "Python.genSquare.executor": "Run",
-    "Python.intuition1.executor": "Run",
-    "Python.itertoolsModule.executor": "Run",
-    "Python.jsonModule.executor": "Run",
-    "Python.mathModule.executor": "Run",
-    "Python.mutlilevel1.executor": "Run",
-    "Python.platformModule.executor": "Run",
-    "Python.printNum.executor": "Run",
-    "Python.randomModule.executor": "Run",
-    "Python.second.executor": "Run",
-    "Python.supermethod.executor": "Run",
-    "Python.supermethod1.executor": "Run",
-    "Python.sysModule.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.third.executor": "Run",
-    "Python.withusage.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/arvas/OneDrive/Desktop/Python Full Stack",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ATMProject.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AbstractClass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AbstractMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AccessModifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AllinOne.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BankingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BankingExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BankingExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassMethodEg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassVarEg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CombinedEg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConstructorOverLoading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConstructorOverriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DefaultExceptBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EmailProject.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Example9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionEg1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionEg2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionEg3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionEg4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionEg5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionEg6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FunctionIntuition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GeneratorEg1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GeneratorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HierarchicalInherit1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HybridInherit1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HybridInherit2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InstanceMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InstanceMethodEg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InstanceVarEg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List_Comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LocalVarEg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LogicalError.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MethodOveriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MethodOveriding1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MethodOverriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MethodOverriding1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MethodOverriding2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MultiInherit1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multiinherit2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multiinherit3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multilevel2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mutlilevel1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NoParameterisedConst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OverLoading3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OverLoadingEg1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OverloadingEg2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ParameterisedConst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PublicMemberEg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReadAndWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SingleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SingleInheritance1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SingleInheritance2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StaticMethodEg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SyntaxError.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UniversityManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classExample.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fileAppend.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fileRead.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fileWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fileWrite1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filesIntro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.finally.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first.executor&quot;: &quot;Run&quot;,
+    &quot;Python.genSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Python.intuition1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.itertoolsModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jsonModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mathModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mutlilevel1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.platformModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printNum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.randomModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second.executor&quot;: &quot;Run&quot;,
+    &quot;Python.supermethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.supermethod1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sysModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.third.executor&quot;: &quot;Run&quot;,
+    &quot;Python.withusage.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arvas/OneDrive/Desktop/Python Full Stack&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration default="true" type="DjangoTestsConfigurationType">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python Full Stack" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,14 +244,16 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Python.FlaskServer">
+    <configuration default="true" type="tests" factoryName="Autodetect">
       <module name="Python Full Stack" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,10 +266,12 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="launchJavascriptDebuger" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
+    <configuration default="true" type="tests" factoryName="Doctests">
       <module name="Python Full Stack" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,44 +284,13 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="Python Full Stack" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="Python Full Stack" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -345,7 +318,9 @@
       <workItem from="1788362140608" duration="50000" />
       <workItem from="1788362203863" duration="5988000" />
       <workItem from="1788533971494" duration="643000" />
-      <workItem from="1788536777517" duration="5132000" />
+      <workItem from="1788536777517" duration="6741000" />
+      <workItem from="1788883584667" duration="2041000" />
+      <workItem from="1788964229340" duration="4470000" />
     </task>
     <task id="LOCAL-00001" summary="commit this change">
       <option name="closed" value="true" />
@@ -398,23 +373,23 @@
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Multiinherit2.coverage" NAME="Multiinherit2 Coverage Results" MODIFIED="1788107662715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$mutlilevel1.coverage" NAME="mutlilevel1 Coverage Results" MODIFIED="1788101682566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Multilevel2.coverage" NAME="Multilevel2 Coverage Results" MODIFIED="1788107766717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example4.coverage" NAME="Example4 Coverage Results" MODIFIED="1788374623744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example4.coverage" NAME="Example4 Coverage Results" MODIFIED="1788968612673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionEg2.coverage" NAME="ExceptionEg2 Coverage Results" MODIFIED="1788541266545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$DefaultExceptBlock.coverage" NAME="DefaultExceptBlock Coverage Results" MODIFIED="1788542790341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$SyntaxError.coverage" NAME="SyntaxError Coverage Results" MODIFIED="1788539670493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example7.coverage" NAME="Example7 Coverage Results" MODIFIED="1788374721793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example7.coverage" NAME="Example7 Coverage Results" MODIFIED="1788969017757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$HierarchicalInherit1.coverage" NAME="HierarchicalInherit1 Coverage Results" MODIFIED="1788107825197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$AllinOne.coverage" NAME="AllinOne Coverage Results" MODIFIED="1787846081591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-24/OOPs1" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example2.coverage" NAME="Example2 Coverage Results" MODIFIED="1788374516946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example2.coverage" NAME="Example2 Coverage Results" MODIFIED="1788967977735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ClassMethodEg.coverage" NAME="ClassMethodEg Coverage Results" MODIFIED="1787845936134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-24/OOPs1" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ConstructorOverriding.coverage" NAME="ConstructorOverriding Coverage Results" MODIFIED="1787940099553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example10.coverage" NAME="Example10 Coverage Results" MODIFIED="1788374833765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example10.coverage" NAME="Example10 Coverage Results" MODIFIED="1788974615891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$SingleInheritance2.coverage" NAME="SingleInheritance2 Coverage Results" MODIFIED="1788107616355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$platformModule.coverage" NAME="platformModule Coverage Results" MODIFIED="1787511366186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$fileWrite.coverage" NAME="fileWrite Coverage Results" MODIFIED="1787596972794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-21" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$LogicalError.coverage" NAME="LogicalError Coverage Results" MODIFIED="1788539783961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$fileAppend.coverage" NAME="fileAppend Coverage Results" MODIFIED="1787596862890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-21" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example9.coverage" NAME="Example9 Coverage Results" MODIFIED="1788374783672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example9.coverage" NAME="Example9 Coverage Results" MODIFIED="1788974431610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$MethodOveriding1.coverage" NAME="MethodOveriding1 Coverage Results" MODIFIED="1787932121894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$HybridInherit2.coverage" NAME="HybridInherit2 Coverage Results" MODIFIED="1788107897076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$AbstractMethod.coverage" NAME="AbstractMethod Coverage Results" MODIFIED="1788195463450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-28/Data Abstraction" />
@@ -424,22 +399,22 @@
     <SUITE FILE_PATH="coverage/Python_Full_Stack$OverloadingEg2.coverage" NAME="OverloadingEg2 Coverage Results" MODIFIED="1787939957308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$AbstractClass.coverage" NAME="AbstractClass Coverage Results" MODIFIED="1788195477066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-28/Data Abstraction" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example15.coverage" NAME="Example15 Coverage Results" MODIFIED="1788375030422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionType.coverage" NAME="ExceptionType Coverage Results" MODIFIED="1788543165600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionType.coverage" NAME="ExceptionType Coverage Results" MODIFIED="1788543292475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionEg4.coverage" NAME="ExceptionEg4 Coverage Results" MODIFIED="1788541759628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$GeneratorExample.coverage" NAME="GeneratorExample Coverage Results" MODIFIED="1787504384922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-19" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ClassVarEg.coverage" NAME="ClassVarEg Coverage Results" MODIFIED="1787760404774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-23/OOPs" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$calculate.coverage" NAME="calculate Coverage Results" MODIFIED="1787511081947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example5.coverage" NAME="Example5 Coverage Results" MODIFIED="1788374670716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example5.coverage" NAME="Example5 Coverage Results" MODIFIED="1788968775489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$genSquare.coverage" NAME="genSquare Coverage Results" MODIFIED="1787504450222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-19" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Multiinherit3.coverage" NAME="Multiinherit3 Coverage Results" MODIFIED="1788107718323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionEg3.coverage" NAME="ExceptionEg3 Coverage Results" MODIFIED="1788541282308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$third.coverage" NAME="third Coverage Results" MODIFIED="1787511036351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$withusage.coverage" NAME="withusage Coverage Results" MODIFIED="1787596982474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-21" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example1.coverage" NAME="Example1 Coverage Results" MODIFIED="1788374439105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example1.coverage" NAME="Example1 Coverage Results" MODIFIED="1788967987468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$MethodOveriding.coverage" NAME="MethodOveriding Coverage Results" MODIFIED="1787855605442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$first.coverage" NAME="first Coverage Results" MODIFIED="1787510976775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$HybridInherit1.coverage" NAME="HybridInherit1 Coverage Results" MODIFIED="1788107880865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example6.coverage" NAME="Example6 Coverage Results" MODIFIED="1788374705645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example6.coverage" NAME="Example6 Coverage Results" MODIFIED="1788968880737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example14.coverage" NAME="Example14 Coverage Results" MODIFIED="1788374996650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example20.coverage" NAME="Example20 Coverage Results" MODIFIED="1788375199167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example11.coverage" NAME="Example11 Coverage Results" MODIFIED="1788374889223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
@@ -460,13 +435,13 @@
     <SUITE FILE_PATH="coverage/Python_Full_Stack$MethodOverriding.coverage" NAME="MethodOverriding Coverage Results" MODIFIED="1787939903811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$filesIntro.coverage" NAME="filesIntro Coverage Results" MODIFIED="1787585668821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-21" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ParameterisedConst.coverage" NAME="ParameterisedConst Coverage Results" MODIFIED="1787846151673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-24/OOPs1" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example8.coverage" NAME="Example8 Coverage Results" MODIFIED="1788374736218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example8.coverage" NAME="Example8 Coverage Results" MODIFIED="1788969504043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$supermethod1.coverage" NAME="supermethod1 Coverage Results" MODIFIED="1788107856379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example22.coverage" NAME="Example22 Coverage Results" MODIFIED="1788375277519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$EmailProject.coverage" NAME="EmailProject Coverage Results" MODIFIED="1787593134546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-21" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionEg6.coverage" NAME="ExceptionEg6 Coverage Results" MODIFIED="1788542481815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example3.coverage" NAME="Example3 Coverage Results" MODIFIED="1788374584800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$InstanceVarEg.coverage" NAME="InstanceVarEg Coverage Results" MODIFIED="1787760387196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-23/OOPs" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Example3.coverage" NAME="Example3 Coverage Results" MODIFIED="1788968504809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$FunctionIntuition.coverage" NAME="FunctionIntuition Coverage Results" MODIFIED="1787504092806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-19" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$InstanceMethodEg.coverage" NAME="InstanceMethodEg Coverage Results" MODIFIED="1787845918094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-24/OOPs1" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example16.coverage" NAME="Example16 Coverage Results" MODIFIED="1788375056653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
