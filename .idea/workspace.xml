@@ -6,6 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="aa68ad2a-bad3-4bb8-97ba-eb8df6c1dcc5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_notes/Day-13.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -31,61 +45,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000617315856" />
-      <entry key="MS500" value="1.0439075773563984" />
-      <entry key="S2" value="1.8565642821213255" />
-      <entry key="S5" value="2.9127240627909172" />
-      <entry key="S10" value="3.8746052036082226" />
-      <entry key="S30" value="7.937893106055275" />
-      <entry key="S60" value="14.45528456762893" />
-      <entry key="M2" value="28.124685091925794" />
-      <entry key="M5" value="73.73961387171418" />
-      <entry key="M10" value="135.21113386568183" />
-      <entry key="M15" value="175.95464434273163" />
-      <entry key="M30" value="238.7806047439996" />
-      <entry key="H1" value="293.18793756680867" />
-      <entry key="H2" value="437.23849185723265" />
-      <entry key="H4" value="847.2488987079322" />
-      <entry key="D1" value="2798.7383027077312" />
-      <entry key="W1" value="5493.698066194836" />
+      <entry key="MS100" value="1.4204496431654652" />
+      <entry key="MS500" value="1.923910678055044" />
+      <entry key="S2" value="3.359946917884048" />
+      <entry key="S5" value="5.5374356816664125" />
+      <entry key="S10" value="7.907911122183461" />
+      <entry key="S30" value="12.15711633826871" />
+      <entry key="S60" value="17.528700914327434" />
+      <entry key="M2" value="30.534276364532175" />
+      <entry key="M5" value="72.31853615350089" />
+      <entry key="M10" value="132.2122577684801" />
+      <entry key="M15" value="176.64352985497976" />
+      <entry key="M30" value="257.5178195731747" />
+      <entry key="H1" value="330.75825719352684" />
+      <entry key="H2" value="425.78195329146536" />
+      <entry key="H4" value="693.2695271502977" />
+      <entry key="D1" value="2777.7535901200836" />
+      <entry key="W1" value="5805.2364668055925" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.5898250893866039E-127" />
-      <entry key="S2" value="1.9968127295048136E-32" />
-      <entry key="S5" value="2.089948581217619E-13" />
-      <entry key="S10" value="4.577256268681438E-7" />
-      <entry key="S30" value="0.008530915678709044" />
-      <entry key="S60" value="0.11654894295635315" />
-      <entry key="M2" value="0.4714257444736183" />
-      <entry key="M5" value="1.3339243277604713" />
-      <entry key="M10" value="2.373184501754633" />
-      <entry key="M15" value="3.0786750814098056" />
-      <entry key="M30" value="4.187114551306486" />
-      <entry key="H1" value="5.137262417410877" />
-      <entry key="H2" value="7.89736130215647" />
-      <entry key="H4" value="16.332381987153273" />
-      <entry key="D1" value="75.48672578278016" />
-      <entry key="W1" value="165.7011587959073" />
+      <entry key="MS500" value="4.508739756944273E-129" />
+      <entry key="S2" value="8.194336460672936E-33" />
+      <entry key="S5" value="1.4636147977856645E-13" />
+      <entry key="S10" value="3.8524044242455757E-7" />
+      <entry key="S30" value="0.008657668254015073" />
+      <entry key="S60" value="0.1257339194313191" />
+      <entry key="M2" value="0.5654832389907014" />
+      <entry key="M5" value="2.0326924954925363" />
+      <entry key="M10" value="4.108100254290353" />
+      <entry key="M15" value="5.728178274445473" />
+      <entry key="M30" value="8.845355271972199" />
+      <entry key="H1" value="11.68413110486872" />
+      <entry key="H2" value="14.436029509501104" />
+      <entry key="H4" value="20.172649428836557" />
+      <entry key="D1" value="78.68338043333482" />
+      <entry key="W1" value="177.41029067669209" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9138315066410405" />
-      <entry key="MS500" value="1.0252200718747673" />
-      <entry key="S2" value="1.84752457392013" />
-      <entry key="S5" value="2.9066794716824482" />
-      <entry key="S10" value="3.87026677203629" />
-      <entry key="S30" value="7.938157368841535" />
-      <entry key="S60" value="14.549434844492092" />
-      <entry key="M2" value="28.5500102861548" />
-      <entry key="M5" value="74.9980240972113" />
-      <entry key="M10" value="137.50677465799944" />
-      <entry key="M15" value="178.96407840014078" />
-      <entry key="M30" value="242.91967071742317" />
-      <entry key="H1" value="298.29548201756376" />
-      <entry key="H2" value="445.1140357561344" />
-      <entry key="H4" value="863.5610005776789" />
-      <entry key="D1" value="2874.214710575872" />
-      <entry key="W1" value="5659.39638165932" />
+      <entry key="MS100" value="0.4730328658914089" />
+      <entry key="MS500" value="0.981064139781342" />
+      <entry key="S2" value="2.679819564770781" />
+      <entry key="S5" value="5.005450343621457" />
+      <entry key="S10" value="7.503220021411757" />
+      <entry key="S30" value="11.950912915230443" />
+      <entry key="S60" value="17.50862057984922" />
+      <entry key="M2" value="30.99497865838346" />
+      <entry key="M5" value="74.27263486550335" />
+      <entry key="M10" value="136.25094948141108" />
+      <entry key="M15" value="182.30901966622326" />
+      <entry key="M30" value="266.3159692526669" />
+      <entry key="H1" value="342.4113803671379" />
+      <entry key="H2" value="440.1977702369873" />
+      <entry key="H4" value="713.4257667130506" />
+      <entry key="D1" value="2856.4266541454563" />
+      <entry key="W1" value="5982.643738861295" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -397,7 +411,7 @@
       <workItem from="1789197700099" duration="1230000" />
       <workItem from="1789298909460" duration="3776000" />
       <workItem from="1789375381421" duration="176000" />
-      <workItem from="1789375575944" duration="2147000" />
+      <workItem from="1789375575944" duration="9380000" />
     </task>
     <task id="LOCAL-00001" summary="commit this change">
       <option name="closed" value="true" />
@@ -420,17 +434,17 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Full_Stack$BankingExample2.coverage" NAME="BankingExample2 Coverage Results" MODIFIED="1788114214641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-27/Encapsulation" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$finally.coverage" NAME="finally Coverage Results" MODIFIED="1788543233099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$LinePlot1.coverage" NAME="LinePlot1 Coverage Results" MODIFIED="1789377616261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$LinePlot1.coverage" NAME="LinePlot1 Coverage Results" MODIFIED="1789378788750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$SingleInheritance.coverage" NAME="SingleInheritance Coverage Results" MODIFIED="1788076641653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$PublicMemberEg.coverage" NAME="PublicMemberEg Coverage Results" MODIFIED="1788111384815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-27/Encapsulation" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$OverLoading3.coverage" NAME="OverLoading3 Coverage Results" MODIFIED="1787856331986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$itertoolsModule.coverage" NAME="itertoolsModule Coverage Results" MODIFIED="1787511297911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ReadAndWrite.coverage" NAME="ReadAndWrite Coverage Results" MODIFIED="1787596924990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-21" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$GeneratorEg1.coverage" NAME="GeneratorEg1 Coverage Results" MODIFIED="1787504411162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-19" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$LinePlot.coverage" NAME="LinePlot Coverage Results" MODIFIED="1789376381383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$LinePlot.coverage" NAME="LinePlot Coverage Results" MODIFIED="1789378696103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$sysModule.coverage" NAME="sysModule Coverage Results" MODIFIED="1787511415798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$mathModule.coverage" NAME="mathModule Coverage Results" MODIFIED="1787508808151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$BarChart.coverage" NAME="BarChart Coverage Results" MODIFIED="1789377569059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$BarChart.coverage" NAME="BarChart Coverage Results" MODIFIED="1789378817749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example12.coverage" NAME="Example12 Coverage Results" MODIFIED="1788374920508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$MultiInherit1.coverage" NAME="MultiInherit1 Coverage Results" MODIFIED="1788107648990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example21.coverage" NAME="Example21 Coverage Results" MODIFIED="1788375263603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
@@ -441,7 +455,7 @@
     <SUITE FILE_PATH="coverage/Python_Full_Stack$test.coverage" NAME="test Coverage Results" MODIFIED="1787511097772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example13.coverage" NAME="Example13 Coverage Results" MODIFIED="1788374954298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example18.coverage" NAME="Example18 Coverage Results" MODIFIED="1788375121028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$PieChart.coverage" NAME="PieChart Coverage Results" MODIFIED="1789377548722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$PieChart.coverage" NAME="PieChart Coverage Results" MODIFIED="1789378832609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$fileRead.coverage" NAME="fileRead Coverage Results" MODIFIED="1787596825523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-21" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ATMProject.coverage" NAME="ATMProject Coverage Results" MODIFIED="1787680861802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-22" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$BankingExample1.coverage" NAME="BankingExample1 Coverage Results" MODIFIED="1788114124330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-27/Encapsulation" />
@@ -485,7 +499,7 @@
     <SUITE FILE_PATH="coverage/Python_Full_Stack$MethodOverriding1.coverage" NAME="MethodOverriding1 Coverage Results" MODIFIED="1787940003669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$OverloadingEg2.coverage" NAME="OverloadingEg2 Coverage Results" MODIFIED="1787939957308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$AbstractClass.coverage" NAME="AbstractClass Coverage Results" MODIFIED="1788195477066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-28/Data Abstraction" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$Histogram.coverage" NAME="Histogram Coverage Results" MODIFIED="1789377515590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Histogram.coverage" NAME="Histogram Coverage Results" MODIFIED="1789378859334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example15.coverage" NAME="Example15 Coverage Results" MODIFIED="1788375030422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionType.coverage" NAME="ExceptionType Coverage Results" MODIFIED="1788543292475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionEg4.coverage" NAME="ExceptionEg4 Coverage Results" MODIFIED="1788541759628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
