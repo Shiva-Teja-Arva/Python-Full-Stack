@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="244" />
+    <option name="cachedIndexableFilesCount" value="248" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,61 +31,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.00003186459086" />
-      <entry key="S5" value="1.026139120775074" />
-      <entry key="S10" value="1.3033144145498208" />
-      <entry key="S30" value="3.014664927340659" />
-      <entry key="S60" value="5.897435242195267" />
-      <entry key="M2" value="11.116858355201847" />
-      <entry key="M5" value="19.175514313818375" />
-      <entry key="M10" value="23.7748493355779" />
-      <entry key="M15" value="25.641002972546364" />
-      <entry key="M30" value="27.98489035744431" />
-      <entry key="H1" value="43.85020556139846" />
-      <entry key="H2" value="184.13556375207168" />
-      <entry key="H4" value="605.5536948227004" />
-      <entry key="D1" value="2531.2469148596265" />
-      <entry key="W1" value="5195.921996846388" />
+      <entry key="MS100" value="1.0000000617315856" />
+      <entry key="MS500" value="1.0439075773563984" />
+      <entry key="S2" value="1.8565642821213255" />
+      <entry key="S5" value="2.9127240627909172" />
+      <entry key="S10" value="3.8746052036082226" />
+      <entry key="S30" value="7.937893106055275" />
+      <entry key="S60" value="14.45528456762893" />
+      <entry key="M2" value="28.124685091925794" />
+      <entry key="M5" value="73.73961387171418" />
+      <entry key="M10" value="135.21113386568183" />
+      <entry key="M15" value="175.95464434273163" />
+      <entry key="M30" value="238.7806047439996" />
+      <entry key="H1" value="293.18793756680867" />
+      <entry key="H2" value="437.23849185723265" />
+      <entry key="H4" value="847.2488987079322" />
+      <entry key="D1" value="2798.7383027077312" />
+      <entry key="W1" value="5493.698066194836" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="2.7190225146267975E-196" />
-      <entry key="S60" value="2.2828025369535146E-98" />
-      <entry key="M2" value="2.411310704373585E-49" />
-      <entry key="M5" value="7.275371459752964E-20" />
-      <entry key="M10" value="5.373909290521367E-10" />
-      <entry key="M15" value="1.1068453927967375E-6" />
-      <entry key="M30" value="0.002841513165152293" />
-      <entry key="H1" value="0.23543488029684959" />
-      <entry key="H2" value="2.961549401717466" />
-      <entry key="H4" value="11.688073119425042" />
-      <entry key="D1" value="70.66136578105512" />
-      <entry key="W1" value="160.07513861599156" />
+      <entry key="MS500" value="1.5898250893866039E-127" />
+      <entry key="S2" value="1.9968127295048136E-32" />
+      <entry key="S5" value="2.089948581217619E-13" />
+      <entry key="S10" value="4.577256268681438E-7" />
+      <entry key="S30" value="0.008530915678709044" />
+      <entry key="S60" value="0.11654894295635315" />
+      <entry key="M2" value="0.4714257444736183" />
+      <entry key="M5" value="1.3339243277604713" />
+      <entry key="M10" value="2.373184501754633" />
+      <entry key="M15" value="3.0786750814098056" />
+      <entry key="M30" value="4.187114551306486" />
+      <entry key="H1" value="5.137262417410877" />
+      <entry key="H2" value="7.89736130215647" />
+      <entry key="H4" value="16.332381987153273" />
+      <entry key="D1" value="75.48672578278016" />
+      <entry key="W1" value="165.7011587959073" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7955364837549187" />
-      <entry key="MS500" value="0.9552829363824373" />
-      <entry key="S2" value="0.9886597637341584" />
-      <entry key="S5" value="1.021100657628282" />
-      <entry key="S10" value="1.296772718873579" />
-      <entry key="S30" value="2.9983923612811028" />
-      <entry key="S60" value="5.870468302877151" />
-      <entry key="M2" value="11.085574829078361" />
-      <entry key="M5" value="19.152865475263685" />
-      <entry key="M10" value="23.76083399518839" />
-      <entry key="M15" value="25.630954815183973" />
-      <entry key="M30" value="27.982268150636905" />
-      <entry key="H1" value="44.08135389543624" />
-      <entry key="H2" value="187.08834188217378" />
-      <entry key="H4" value="617.2278184529142" />
-      <entry key="D1" value="2601.899132504735" />
-      <entry key="W1" value="5355.994475152826" />
+      <entry key="MS100" value="0.9138315066410405" />
+      <entry key="MS500" value="1.0252200718747673" />
+      <entry key="S2" value="1.84752457392013" />
+      <entry key="S5" value="2.9066794716824482" />
+      <entry key="S10" value="3.87026677203629" />
+      <entry key="S30" value="7.938157368841535" />
+      <entry key="S60" value="14.549434844492092" />
+      <entry key="M2" value="28.5500102861548" />
+      <entry key="M5" value="74.9980240972113" />
+      <entry key="M10" value="137.50677465799944" />
+      <entry key="M15" value="178.96407840014078" />
+      <entry key="M30" value="242.91967071742317" />
+      <entry key="H1" value="298.29548201756376" />
+      <entry key="H2" value="445.1140357561344" />
+      <entry key="H4" value="863.5610005776789" />
+      <entry key="D1" value="2874.214710575872" />
+      <entry key="W1" value="5659.39638165932" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -112,6 +112,7 @@
     "Python.BankingExample.executor": "Run",
     "Python.BankingExample1.executor": "Run",
     "Python.BankingExample2.executor": "Run",
+    "Python.BarChart.executor": "Run",
     "Python.ClassMethodEg.executor": "Run",
     "Python.ClassVarEg.executor": "Run",
     "Python.CombinedEg.executor": "Run",
@@ -155,11 +156,14 @@
     "Python.GeneratorExample.executor": "Run",
     "Python.Gmail_Validator.executor": "Run",
     "Python.HierarchicalInherit1.executor": "Run",
+    "Python.Histogram.executor": "Run",
     "Python.HybridInherit1.executor": "Run",
     "Python.HybridInherit2.executor": "Run",
     "Python.InstanceMethod.executor": "Run",
     "Python.InstanceMethodEg.executor": "Run",
     "Python.InstanceVarEg.executor": "Run",
+    "Python.LinePlot.executor": "Run",
+    "Python.LinePlot1.executor": "Run",
     "Python.List_Comprehension.executor": "Run",
     "Python.LocalVarEg.executor": "Run",
     "Python.LogicalError.executor": "Run",
@@ -181,6 +185,7 @@
     "Python.OverLoadingEg1.executor": "Run",
     "Python.OverloadingEg2.executor": "Run",
     "Python.ParameterisedConst.executor": "Run",
+    "Python.PieChart.executor": "Run",
     "Python.PublicMemberEg.executor": "Run",
     "Python.ReadAndWrite.executor": "Run",
     "Python.SeriesEg.executor": "Run",
@@ -237,7 +242,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+    <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="Python Full Stack" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,16 +258,14 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
+    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.App">
       <module name="Python Full Stack" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,12 +278,9 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.Task">
       <module name="Python Full Stack" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,13 +293,75 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="Python Full Stack" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Python Full Stack" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Python Full Stack" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Python Full Stack" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -333,7 +395,9 @@
       <workItem from="1789107287041" duration="3084000" />
       <workItem from="1789111109161" duration="6426000" />
       <workItem from="1789197700099" duration="1230000" />
-      <workItem from="1789298909460" duration="2599000" />
+      <workItem from="1789298909460" duration="3776000" />
+      <workItem from="1789375381421" duration="176000" />
+      <workItem from="1789375575944" duration="2147000" />
     </task>
     <task id="LOCAL-00001" summary="commit this change">
       <option name="closed" value="true" />
@@ -356,14 +420,17 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Full_Stack$BankingExample2.coverage" NAME="BankingExample2 Coverage Results" MODIFIED="1788114214641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-27/Encapsulation" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$finally.coverage" NAME="finally Coverage Results" MODIFIED="1788543233099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$LinePlot1.coverage" NAME="LinePlot1 Coverage Results" MODIFIED="1789377616261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$SingleInheritance.coverage" NAME="SingleInheritance Coverage Results" MODIFIED="1788076641653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$PublicMemberEg.coverage" NAME="PublicMemberEg Coverage Results" MODIFIED="1788111384815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-27/Encapsulation" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$OverLoading3.coverage" NAME="OverLoading3 Coverage Results" MODIFIED="1787856331986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$itertoolsModule.coverage" NAME="itertoolsModule Coverage Results" MODIFIED="1787511297911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ReadAndWrite.coverage" NAME="ReadAndWrite Coverage Results" MODIFIED="1787596924990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-21" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$GeneratorEg1.coverage" NAME="GeneratorEg1 Coverage Results" MODIFIED="1787504411162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-19" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$LinePlot.coverage" NAME="LinePlot Coverage Results" MODIFIED="1789376381383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$sysModule.coverage" NAME="sysModule Coverage Results" MODIFIED="1787511415798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$mathModule.coverage" NAME="mathModule Coverage Results" MODIFIED="1787508808151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$BarChart.coverage" NAME="BarChart Coverage Results" MODIFIED="1789377569059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example12.coverage" NAME="Example12 Coverage Results" MODIFIED="1788374920508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$MultiInherit1.coverage" NAME="MultiInherit1 Coverage Results" MODIFIED="1788107648990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example21.coverage" NAME="Example21 Coverage Results" MODIFIED="1788375263603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
@@ -374,6 +441,7 @@
     <SUITE FILE_PATH="coverage/Python_Full_Stack$test.coverage" NAME="test Coverage Results" MODIFIED="1787511097772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example13.coverage" NAME="Example13 Coverage Results" MODIFIED="1788374954298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example18.coverage" NAME="Example18 Coverage Results" MODIFIED="1788375121028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$PieChart.coverage" NAME="PieChart Coverage Results" MODIFIED="1789377548722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$fileRead.coverage" NAME="fileRead Coverage Results" MODIFIED="1787596825523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-21" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ATMProject.coverage" NAME="ATMProject Coverage Results" MODIFIED="1787680861802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-22" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$BankingExample1.coverage" NAME="BankingExample1 Coverage Results" MODIFIED="1788114124330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-27/Encapsulation" />
@@ -400,7 +468,7 @@
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ClassMethodEg.coverage" NAME="ClassMethodEg Coverage Results" MODIFIED="1787845936134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-24/OOPs1" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ConstructorOverriding.coverage" NAME="ConstructorOverriding Coverage Results" MODIFIED="1787940099553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example10.coverage" NAME="Example10 Coverage Results" MODIFIED="1788975405827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$DataFrameEg.coverage" NAME="DataFrameEg Coverage Results" MODIFIED="1789318132643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-34/Data Analysis - Pandas" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$DataFrameEg.coverage" NAME="DataFrameEg Coverage Results" MODIFIED="1789318684262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-34/Data Analysis - Pandas" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$SingleInheritance2.coverage" NAME="SingleInheritance2 Coverage Results" MODIFIED="1788107616355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$platformModule.coverage" NAME="platformModule Coverage Results" MODIFIED="1787511366186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$OnesAndZeros.coverage" NAME="OnesAndZeros Coverage Results" MODIFIED="1789141832315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-33/Data Analysis - Numpy" />
@@ -417,13 +485,14 @@
     <SUITE FILE_PATH="coverage/Python_Full_Stack$MethodOverriding1.coverage" NAME="MethodOverriding1 Coverage Results" MODIFIED="1787940003669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$OverloadingEg2.coverage" NAME="OverloadingEg2 Coverage Results" MODIFIED="1787939957308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-25/Polymorphism" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$AbstractClass.coverage" NAME="AbstractClass Coverage Results" MODIFIED="1788195477066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-28/Data Abstraction" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$Histogram.coverage" NAME="Histogram Coverage Results" MODIFIED="1789377515590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-35/Data Analysis - Matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example15.coverage" NAME="Example15 Coverage Results" MODIFIED="1788375030422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-30/OOPs Pratice" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionType.coverage" NAME="ExceptionType Coverage Results" MODIFIED="1788543292475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ExceptionEg4.coverage" NAME="ExceptionEg4 Coverage Results" MODIFIED="1788541759628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-31/Exception Handling" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$GeneratorExample.coverage" NAME="GeneratorExample Coverage Results" MODIFIED="1787504384922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-19" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$ClassVarEg.coverage" NAME="ClassVarEg Coverage Results" MODIFIED="1787760404774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-23/OOPs" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$calculate.coverage" NAME="calculate Coverage Results" MODIFIED="1787511081947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-20/modulesconcepts" />
-    <SUITE FILE_PATH="coverage/Python_Full_Stack$SeriesEg.coverage" NAME="SeriesEg Coverage Results" MODIFIED="1789300332492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-34/Data Analysis - Pandas" />
+    <SUITE FILE_PATH="coverage/Python_Full_Stack$SeriesEg.coverage" NAME="SeriesEg Coverage Results" MODIFIED="1789318665238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-34/Data Analysis - Pandas" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Example5.coverage" NAME="Example5 Coverage Results" MODIFIED="1788975328299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-32/Regular Expressions" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$genSquare.coverage" NAME="genSquare Coverage Results" MODIFIED="1787504450222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-19" />
     <SUITE FILE_PATH="coverage/Python_Full_Stack$Multiinherit3.coverage" NAME="Multiinherit3 Coverage Results" MODIFIED="1788107718323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_practice/Day-26/Inheritance" />
